@@ -1,0 +1,12 @@
+h1, p {
+    text-align: center;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    align-items: center;
+    border: none;
+    font-size: 75px;
+    margin-left: 30%;
+}
